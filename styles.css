@@ -15,11 +15,11 @@ font-size:36px;
 .lousyheader {
 background: #ccc;
 font-size:36px;
+font:Arial, Helvetica, sans-serif;
 }
 .lousyheader a {
 color: #333333;
 text-decoration:none;
-font:Geneva, Arial, Helvetica, sans-serif;
 }
 .lousybody {
 background-image: url();
