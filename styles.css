@@ -6,6 +6,7 @@ margin-left:5%;
 .nametitle {
 font-size:36px;
 }
+
 .lousyheader {
 background: #ccc;
 font-size:36px;
@@ -14,4 +15,6 @@ font-size:36px;
 color: #333333;
 text-decoration:none;
 }
-.lousybody {}
+.lousybody {
+background-image: http://chriscaulier.github.io/images/headshot_0.jpg;
+}
