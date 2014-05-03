@@ -3,7 +3,10 @@
 .wrapper {
 margin-left:5%;
 }
-.nametitle {
+#nametitle {
+background: white;
+}
+nametitle {
 font-size:36px;
 }
 
