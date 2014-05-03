@@ -1,12 +1,16 @@
 @charset "UTF-8";
 /* CSS Document */
-
+.wrapper {
+margin-left:20%;
+}
 .lousyheader {
 background: #ccc;
 font-size:36px;
 }
 .lousyheader a {
 color: #333333;
+text-decoration:none;
 }
 .lousybody {
+margin
 }
