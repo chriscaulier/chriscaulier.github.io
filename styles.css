@@ -5,8 +5,10 @@ margin-left:5%;
 }
 #nametitle {
 background: white;
+float:left;
 }
 nametitle {
+float:left;
 font-size:36px;
 }
 
